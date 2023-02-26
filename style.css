@@ -1,0 +1,23 @@
+body{
+    color: white;
+    background-color: #ffffff;
+   
+}
+
+*{
+    font-family: sans-serif;
+}
+.nav{
+    background-color: #3d7260;
+    padding: 1em;
+}
+
+h1{
+    font-weight:bold;
+    color: rgb(255, 255, 255);
+    
+}
+.img{
+    margin-top: 420px; 
+    margin-left: 650px;
+}
